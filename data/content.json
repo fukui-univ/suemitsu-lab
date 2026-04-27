@@ -1,0 +1,107 @@
+{
+  "lab": {
+    "name": "福井大学 半導体集積デバイス工学研究室",
+    "description": "最先端の半導体技術と集積デバイス工学を研究"
+  },
+  "research": [
+    {
+      "title": "高効率パワーデバイス",
+      "description": "次世代の電力変換技術を実現するパワーデバイスの設計と製造プロセスの研究"
+    },
+    {
+      "title": "微細加工プロセス",
+      "description": "ナノメートルスケールの半導体デバイス製造技術の開発と最適化"
+    },
+    {
+      "title": "集積回路設計",
+      "description": "高性能・低消費電力の集積回路（IC）設計技術の研究開発"
+    },
+    {
+      "title": "デバイス物理",
+      "description": "半導体材料の物理特性解析と新規デバイス構造の提案"
+    }
+  ],
+  "achievements": [
+    {
+      "year": "2025",
+      "title": "高効率GaN系パワーデバイスの開発",
+      "description": "窒化ガリウム（GaN）を用いた次世代パワーデバイスの研究成果が国際会議で発表されました。"
+    },
+    {
+      "year": "2025",
+      "title": "マイクロ波回路設計技術",
+      "description": "5G/6G通信向けマイクロ波集積回路の新しい設計手法を提案し、論文が学術誌に掲載されました。"
+    },
+    {
+      "year": "2024",
+      "title": "低消費電力メモリデバイス",
+      "description": "次世代メモリデバイスの低消費電力化技術に関する研究が特許申請されました。"
+    },
+    {
+      "year": "2024",
+      "title": "国際学会での発表",
+      "description": "国際半導体会議（ISIE）で研究成果を発表し、Best Paper Awardを受賞しました。"
+    },
+    {
+      "year": "2023",
+      "title": "産学連携プロジェクト",
+      "description": "複数の企業との共同研究プロジェクトが開始され、実用化に向けた取り組みが進行中です。"
+    }
+  ],
+  "members": [
+    {
+      "name": "山田 太郎",
+      "role": "教授（研究室長）",
+      "email": "yamada@fukui-u.ac.jp",
+      "initials": "YT"
+    },
+    {
+      "name": "佐藤 花子",
+      "role": "准教授",
+      "email": "sato@fukui-u.ac.jp",
+      "initials": "SH"
+    },
+    {
+      "name": "鈴木 次郎",
+      "role": "助教",
+      "email": "suzuki@fukui-u.ac.jp",
+      "initials": "SJ"
+    },
+    {
+      "name": "田中 由美",
+      "role": "博士課程学生",
+      "email": "tanaka@fukui-u.ac.jp",
+      "initials": "TY"
+    },
+    {
+      "name": "伊藤 健太",
+      "role": "修士課程学生",
+      "email": "ito@fukui-u.ac.jp",
+      "initials": "IK"
+    },
+    {
+      "name": "佐々木 美紀",
+      "role": "修士課程学生",
+      "email": "sasaki@fukui-u.ac.jp",
+      "initials": "SM"
+    }
+  ],
+  "contact": [
+    {
+      "type": "住所",
+      "content": "福井県福井市文京3丁目9番1号\n福井大学 工学部 電気電子工学科"
+    },
+    {
+      "type": "電話",
+      "content": "+81-776-27-XXXX"
+    },
+    {
+      "type": "メール",
+      "content": "lab-contact@fukui-u.ac.jp"
+    },
+    {
+      "type": "研究室アクセス",
+      "content": "福井大学 文京キャンパス\n工学部棟 3号館 3階"
+    }
+  ]
+}
