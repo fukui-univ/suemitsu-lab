@@ -56,35 +56,25 @@
       "initials": "ST"
     },
     {
-      "name": "佐藤 花子",
-      "role": "准教授",
-      "email": "sato@fukui-u.ac.jp",
-      "initials": "SH"
+      "name": "石田　蓮",
+      "role": "B4",
+      "initials": "IR"
     },
     {
-      "name": "鈴木 次郎",
-      "role": "助教",
-      "email": "suzuki@fukui-u.ac.jp",
-      "initials": "SJ"
+      "name": "坂井　拓光",
+      "role": "B4",
+      "initials": "ST"
     },
     {
-      "name": "田中 由美",
-      "role": "博士課程学生",
-      "email": "tanaka@fukui-u.ac.jp",
-      "initials": "TY"
+      "name": "和出　晴幹",
+      "role": "B4",
+      "initials": "WH"
     },
     {
-      "name": "伊藤 健太",
-      "role": "修士課程学生",
-      "email": "ito@fukui-u.ac.jp",
-      "initials": "IK"
+      "name": "小島　心太朗",
+      "role": "B4",
+      "initials": "KS"
     },
-    {
-      "name": "佐々木 美紀",
-      "role": "修士課程学生",
-      "email": "sasaki@fukui-u.ac.jp",
-      "initials": "SM"
-    }
   ],
   "contact": [
     {
