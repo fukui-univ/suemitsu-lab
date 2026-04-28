@@ -52,7 +52,6 @@
     {
       "name": "末光 哲也",
       "role": "教授（研究室長）",
-      "email": "suemitsu@u-fukui.ac.jp",
       "initials": "ST"
     },
     {
@@ -82,16 +81,8 @@
       "content": "福井県福井市文京3丁目9番1号\n福井大学 工学部 電気電子工学科"
     },
     {
-      "type": "電話",
-      "content": "+81-776-27-XXXX"
-    },
-    {
-      "type": "メール",
-      "content": "lab-contact@fukui-u.ac.jp"
-    },
-    {
       "type": "研究室アクセス",
-      "content": "福井大学 文京キャンパス\n工学部棟 3号館 3階"
+      "content": "福井大学 文京キャンパス\n工学系実験棟IV"
     }
   ]
 }
