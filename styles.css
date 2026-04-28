@@ -256,6 +256,18 @@ header {
     font-weight: bold;
     color: #333;
 }
+/* Google Maps のスタイル */
+.contact-item iframe {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+    .contact-item iframe {
+        height: 250px !important;
+    }
+}
 
 /* ========================================
    フッター
