@@ -64,13 +64,14 @@ function updateMembers(members) {
     `).join('');
 }
 
-// 連絡先を表示
+// 連絡先を表示する部分を修正
 function updateContact(contact) {
     const container = document.getElementById('contact-content');
     container.innerHTML = contact.map(item => `
         <div class="contact-item">
             <h4>${item.type}</h4>
             <p>${item.content.replace(/\n/g, '<br>')}</p>
+            ${item.map ? `<iframe src="${item.map}" width="100%" height="300" style="border:0; border-radius:8px; margin-top:1rem;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>` : ''}
         </div>
     `).join('');
 }
